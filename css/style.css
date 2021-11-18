@@ -74,7 +74,7 @@ i {
 }
 
 .food {
-    max-width: 27% !important;
+    max-width: 17% !important;
     height: auto;
     padding: 5px;
     transition: 0.3s !important;
@@ -84,7 +84,7 @@ i {
 .food:hover {
     box-shadow: 5px 15px 15px;
     max-width: 37% !important;
-    transition: 1s ease-in-out !important;
+    transition: max-width 1s ease-in-out !important;
        
 }
 

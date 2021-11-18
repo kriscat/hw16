@@ -66,11 +66,7 @@ i {
 }
 
 
-/* .all_txt_menu_acc:focus {
-    color: grey !important;
-    box-shadow: none;
-    border-color: grey;
-} */
+
 
 .accordion-button {
     box-shadow: none !important;
@@ -78,16 +74,17 @@ i {
 }
 
 .food {
-    max-width: 30% !important;
+    max-width: 27% !important;
     height: auto;
     padding: 5px;
-    transition: 0.2s !important;
+    transition: 0.3s !important;
 }
 
 .food:hover {
     box-shadow: 5px 15px 15px;
-    max-width: 35% !important;
+    max-width: 37% !important;
     transition: 1s !important;
+    cursor: pointer !important;    
 }
 
 .last {

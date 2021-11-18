@@ -78,13 +78,14 @@ i {
     height: auto;
     padding: 5px;
     transition: 0.3s !important;
+    cursor: zoom-in !important; 
 }
 
 .food:hover {
     box-shadow: 5px 15px 15px;
     max-width: 37% !important;
     transition: 1s !important;
-    cursor: pointer !important;    
+       
 }
 
 .last {

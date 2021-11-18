@@ -1,0 +1,115 @@
+.logo {
+    font-family: 'Comfortaa', cursive;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+}
+
+.logo:hover {
+    color: grey;
+}
+
+.logo1 {
+    font-family: 'Comfortaa', cursive;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.logo1:hover,
+i:hover,
+.all_txt_menu:hover,
+.last2:hover,
+.call:hover {
+    color: grey;
+    cursor: pointer;
+    outline: none
+}
+
+.menu,
+.all_txt_menu {
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+    margin-top: 7px !important;
+    font-family: 'Lora', serif;
+}
+
+i {
+    color: black;
+    font-size: 20px;
+    padding: 15px;
+}
+
+.about_image {
+    max-width: 30%;
+    padding: 0;
+}
+
+.imagetxt {
+    display: flex;
+    flex-direction: row;
+}
+
+.txt1 {
+    max-width: 100%;
+    margin: 14px !important;
+}
+
+.all_txt_menu_acc {
+    text-decoration: none;
+    color: black;
+    margin-top: 7px !important;
+    font-family: 'Lora', serif;
+    font-weight: 600;
+}
+
+
+/* .all_txt_menu_acc:focus {
+    color: grey !important;
+    box-shadow: none;
+    border-color: grey;
+} */
+
+.accordion-button {
+    box-shadow: none !important;
+    border-color: none;
+}
+
+.food {
+    max-width: 30% !important;
+    height: auto;
+    padding: 5px;
+    transition: 0.2s !important;
+}
+
+.food:hover {
+    box-shadow: 5px 15px 15px;
+    max-width: 35% !important;
+    transition: 1s !important;
+}
+
+.last {
+    font-size: 15px;
+}
+
+.call {
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    outline: none;
+}
+
+.last1 {
+    font-size: 10px;
+}
+
+.last2 {
+    text-decoration: none;
+    color: black;
+}
+
+.all_txt {
+    font-family: 'Lora', serif;
+}

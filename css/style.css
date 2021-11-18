@@ -84,7 +84,7 @@ i {
 .food:hover {
     box-shadow: 5px 15px 15px;
     max-width: 37% !important;
-    transition: width 1s ease !important;
+    transition: 1s ease-in-out !important;
        
 }
 

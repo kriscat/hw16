@@ -74,10 +74,10 @@ i {
 }
 
 .food {
-    max-width: 17% !important;
+    max-width: 15% !important;
     height: auto;
     padding: 5px;
-    transition: 0.3s !important;
+/*     transition: 0.3s !important; */
     cursor: zoom-in !important; 
 }
 

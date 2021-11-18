@@ -81,10 +81,10 @@ i {
     cursor: zoom-in !important; 
 }
 
-.food:focus {
+.food:hover {
     box-shadow: 5px 15px 15px;
     max-width: 37% !important;
-    transition: 1s !important;
+    transition: width 1s ease; !important;
        
 }
 
